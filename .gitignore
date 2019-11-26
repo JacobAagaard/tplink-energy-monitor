@@ -59,4 +59,4 @@ typings/
 
 dist/
 .scannerwork/
-*-log.json
+/*-log.json
